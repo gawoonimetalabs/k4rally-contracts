@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
-import "@1001-digital/check-address/contracts/CheckAddress.sol";
+//import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
+import "https://github.com/gawoonimetalabs/k4rally-contracts/blob/main/CheckAddress.sol";
 
 /// @author 1001.digital
 /// @title An extension that enables checking that an address only holds one token.
